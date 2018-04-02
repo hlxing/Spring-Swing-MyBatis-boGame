@@ -28,4 +28,5 @@ A simple java swing game that integrates spring and mybatis framework
 # Rule
 ***
 ![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/rule/rule.png)
+
 具体参见[Rule](https://github.com/603773962/SSM-boGame/tree/master/rule)
