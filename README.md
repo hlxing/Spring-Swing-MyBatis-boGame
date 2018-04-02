@@ -21,9 +21,9 @@ A simple java swing game that integrates spring and mybatis framework
 
 <img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/record.png" width=640 height=480 />
 
-<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/play.png" width=640 height=480 />
+<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/play.png" width=776 height=424 />
 
-<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/settlementy.png" width=640 height=480 />
+<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/settlement.png" width=776 height=424 />
 
 
 # Rule
