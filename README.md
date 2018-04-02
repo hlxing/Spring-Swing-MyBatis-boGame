@@ -15,17 +15,18 @@ A simple java swing game that integrates spring and mybatis framework
 
 # Preview
 
-![](https://github.com/603773962/SSM-boGame/raw/master/screenshots/entry.png)
+<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/entry.png" width=640 height=480 />
 
-![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/screenshots/option.png)
+<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/option.png" width=640 height=480 />
 
-![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/screenshots/record.png)
+<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/record.png" width=640 height=480 />
 
-![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/screenshots/play.png)
+<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/play.png" width=640 height=480 />
 
-![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/screenshots/settlement.png)
+<img src="https://github.com/603773962/SSM-boGame/raw/master/screenshots/settlementy.png" width=640 height=480 />
+
 
 # Rule
 
-![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/rule/rule.png)  
+<img src="https://github.com/603773962/SSM-boGame/raw/master/rule/rule.png" width=320 height=400 />
 具体参见[Rule](https://github.com/603773962/SSM-boGame/tree/master/rule)
