@@ -15,7 +15,7 @@ A simple java swing game that integrates spring and mybatis framework
 
 # Preview
 
-![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/screenshots/entry.png)
+![](https://github.com/603773962/SSM-boGame/raw/master/screenshots/entry.png)
 
 ![](https://raw.githubusercontent.com/603773962/SSM-boGame/master/screenshots/option.png)
 
